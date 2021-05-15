@@ -28,7 +28,7 @@
             <string>/// Init
 
 // Initiate Backendless system
-bl_init("4BF3E02E-E9A1-E819-FFA3-957B972A3B00","E2F1DB53-5115-323C-FF4F-B49DB0D15100");
+bl_init("","");
 
 // Test
 to = ds_list_create();
